@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@mui/styles": "^5.6.0",
+    "cors": "^2.8.5",
+    "mongoose": "^6.2.9"
+  }
+}
